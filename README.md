@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fleet-Compliance Sentinel | Pipeline Punks
+# Pipeline Punks
 
 ### Fleet and DOT Compliance Platform
 
