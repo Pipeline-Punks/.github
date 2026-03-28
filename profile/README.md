@@ -8,7 +8,7 @@
 [![Status Page](https://img.shields.io/badge/Status-Live-0A8EA0?style=for-the-badge)](https://status.pipelinepunks.com)
 [![TNDS](https://img.shields.io/badge/TNDS-truenorthstrategyops.com-0A8EA0?style=for-the-badge)](https://truenorthstrategyops.com)
 
-<img src=profile/"PipelineX-penny.png" alt="PipelineX Penny" width="260" />
+<img src="profile/PipelineX-penny.png" alt="Pipeline Penny" width="260" />
 
 </div>
 
